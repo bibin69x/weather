@@ -14,8 +14,7 @@ export function useWeather(initialCity = 'London') {
 
     try {
       // Endpoint call to backend API proxy
-      const response = await fetch(
-  `https://weather-rd7h.onrender.com/api/weather?city=${encodeURIComponent(cityName.trim())}`
+      const response = await fetch(`https://weather-rd7h.onrender.com/api/weather?city=${encodeURIComponent(cityName.trim())}`)
 );
       const data = await response.json();
 
