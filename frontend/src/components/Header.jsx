@@ -35,7 +35,7 @@ export default function Header() {
             lineHeight: 1.1,
             color: '#0F172A'
           }}>
-            ATMOS <span style={{ fontSize: '0.75rem', fontWeight: 600, color: '#64748B', letterSpacing: '0.1em', marginLeft: '0.3rem' }}>BY CRED</span>
+            Weathers <span style={{ fontSize: '0.75rem', fontWeight: 600, color: '#64748B', letterSpacing: '0.1em', marginLeft: '0.3rem' }}>BY Bibin</span>
           </h1>
           <p style={{ fontSize: '0.825rem', color: '#64748B', fontWeight: 500, marginTop: '2px' }}>
             Precision Weather & Atmospheric Intelligence

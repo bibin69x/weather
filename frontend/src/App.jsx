@@ -107,7 +107,7 @@ export default function App() {
         fontSize: '0.8rem',
         fontWeight: 500
       }}>
-        ATMOS Intelligence • CRED Light Experience • Data provided by WeatherAPI
+        Weather Intelligence • Bibin's Light Experience • Data provided by WeatherAPI
       </footer>
     </div>
   );
